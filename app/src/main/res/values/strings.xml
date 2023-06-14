@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application Admin</string>
+    <string name="upload_ebook">Upload Ebook</string>
+    <string name="delete_notice">Delete Notice</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_notice">Upload Notice</string>
+    <string name="update_faculty">Update Faculty</string>
+    <string name="facebook">facebook</string>
+    <string name="mobile_number_or_email_address">Mobile number or email address</string>
+    <string name="log_in">Log In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="forgotten_password">Forgotten password?</string>
+    <string name="or">--------------------------------------------or-------------------------------------------</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_mobile_or_email">Enter Mobile No. or Email ID</string>
+</resources>

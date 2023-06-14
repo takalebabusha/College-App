@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525185065666",
+    "project_id": "g-p-solapur",
+    "storage_bucket": "g-p-solapur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525185065666:android:caff941a58e1d45ab3915b",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525185065666-1ll99fjr1t1liit3ro53bicsqn9hpmqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0u5rK2XsnwSWswxPJknWcAN5eMlzTUck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525185065666-1ll99fjr1t1liit3ro53bicsqn9hpmqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

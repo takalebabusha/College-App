@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0F568FCF">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="253dp"
+        android:src="@drawable/srl" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="401dp"
+        android:layout_height="67dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"
+        android:background="#053F51B5"
+        android:text="Welcome To Shree Ramchandra College Of Engineering Admin Portal"
+        android:textAllCaps="false"
+        android:textColor="#D6183E"
+        android:textColorHighlight="#1336FC"
+        android:textSize="25dp"
+        />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="320dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:hint="@string/enter_mobile_or_email"
+        android:inputType="textEmailAddress"
+         />
+
+
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/password"
+        android:layout_width="320dp"
+        android:layout_height="51dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/enter_your_password"
+        android:inputType="numberPassword"
+        android:layout_marginTop="20dp"
+        />
+    <Button
+        android:id="@+id/button"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="150dp"
+        android:layout_height="57dp"
+        android:background="#E8F3023A"
+        android:backgroundTint="#F80B41"
+        android:text="@string/log_in"
+        android:textColor="#F8F5F5"
+        android:textColorLink="#D5095A"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+
+        />
+
+
+</LinearLayout>
